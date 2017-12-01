@@ -3,24 +3,24 @@ set nocompatible              " be iMproved, required
 filetype off                  " required
 
 " Set the runtime path to include Vundle and initialize
-set rtp+=~/.vim/bundle/Vundle.vim
+set rtp+=~/.vim/bundle/Vundle.vim/
 call vundle#begin()
 
 " Let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
 " My plugins
-Plugin 'git@github.com:michaelainsworth/MyGeneral.vim.git'
-Plugin 'git@github.com:michaelainsworth/MyCpp.vim.git'
-Plugin 'git@github.com:michaelainsworth/MyHtml.vim'
-Plugin 'git@github.com:michaelainsworth/MyMarkdown.vim.git'
-Plugin 'git@github.com:michaelainsworth/MyPhp.vim.git'
-Plugin 'git@github.com:michaelainsworth/MySql.vim.git'
-Plugin 'git@github.com:michaelainsworth/MyTodoTxt.vim.git'
-Plugin 'git@github.com:michaelainsworth/MyVim.vim.git'
-Plugin 'git@github.com:michaelainsworth/MyXml.vim.git'
-
-" Third party plugins.
+Plugin 'michaelainsworth/MyGeneral.vim'
+Plugin 'michaelainsworth/MyCpp.vim'
+Plugin 'michaelainsworth/MyHtml.vim'
+Plugin 'michaelainsworth/MyMarkdown.vim'
+Plugin 'michaelainsworth/MyPhp.vim'
+Plugin 'michaelainsworth/MySql.vim'
+Plugin 'michaelainsworth/MyTodoTxt.vim'
+Plugin 'michaelainsworth/MyVim.vim'
+Plugin 'michaelainsworth/MyXml.vim'
+ 
+" " Third party plugins.
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'itchyny/lightline.vim'
 Plugin 'scrooloose/nerdtree'
