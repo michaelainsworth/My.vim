@@ -1,9 +1,0 @@
-[submodule "bundle/YouCompleteMe"]
-	path = bundle/YouCompleteMe
-	url = https://github.com/Valloric/YouCompleteMe
-[submodule "bundle/Vundle.vim"]
-	path = bundle/Vundle.vim
-	url = https://github.com/VundleVim/Vundle.vim.git
-[submodule "bundle/MyLedger.vim"]
-	path = bundle/MyLedger.vim
-	url = /home/michael/Files/Programming/MyLedger.vim
