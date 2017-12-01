@@ -23,6 +23,7 @@ Plugin 'michaelainsworth/MyXml.vim'
 " " Third party plugins.
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'itchyny/lightline.vim'
+Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'freitass/todo.txt-vim'
 Plugin 'godlygeek/tabular'
