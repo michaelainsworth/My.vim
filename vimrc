@@ -11,6 +11,7 @@ Plugin 'VundleVim/Vundle.vim'
 
 " My plugins
 Plugin 'michaelainsworth/MyGeneral.vim'
+Plugin 'michaelainsworth/MyC.vim'
 Plugin 'michaelainsworth/MyCpp.vim'
 Plugin 'michaelainsworth/MyHtml.vim'
 Plugin 'michaelainsworth/MyMarkdown.vim'
@@ -20,7 +21,8 @@ Plugin 'michaelainsworth/MyTodoTxt.vim'
 Plugin 'michaelainsworth/MyVim.vim'
 Plugin 'michaelainsworth/MyXml.vim'
  
-" " Third party plugins.
+" Third party plugins.
+Plugin 'zyedidia/literate.vim'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'itchyny/lightline.vim'
 Plugin 'ctrlpvim/ctrlp.vim'
@@ -33,6 +35,7 @@ Plugin 'ledger/vim-ledger'
 Plugin 'MarcWeber/vim-addon-mw-utils'
 Plugin 'mattn/calendar-vim'
 Plugin 'othree/xml.vim'
+Plugin 'othree/html5.vim'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'SirVer/ultisnips'
 Plugin 'tomtom/tlib_vim'
@@ -43,6 +46,7 @@ Plugin 'Valloric/YouCompleteMe'
 Plugin 'vim-scripts/DrawIt'
 Plugin 'vim-scripts/todo-txt.vim'
 Plugin 'vimwiki/vimwiki'
+Plugin 'mattn/emmet-vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
