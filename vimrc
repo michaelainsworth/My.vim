@@ -22,7 +22,8 @@ Plugin 'michaelainsworth/MyVim.vim'
 Plugin 'michaelainsworth/MyXml.vim'
  
 " Third party plugins.
-Plugin 'zyedidia/literate.vim'
+Plugin 'vim-pandoc/vim-pandoc'
+Plugin 'vim-pandoc/vim-pandoc-syntax'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'itchyny/lightline.vim'
 Plugin 'ctrlpvim/ctrlp.vim'
@@ -52,4 +53,5 @@ Plugin 'mattn/emmet-vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 " ========================================================================= }}}
+
 
